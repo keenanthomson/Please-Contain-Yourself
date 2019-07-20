@@ -20,7 +20,7 @@ Text that looks `like this --for --example` are commands that you should type in
 
 First things first, let's install Docker:
 
-- [ ] Go to [Docker's website](https://www.docker.com/products/docker) and download the version that's appropriate for your operating system
+- [ ] Go to [Docker's website](https://www.docker.com/products/docker-desktop) and download the version that's appropriate for your operating system
 
 - [ ] After you've dragged Docker into your Applications, find Docker in your Applications and click it to complete the installation
 
@@ -150,7 +150,7 @@ Run `docker ps -a` again and you'll see a total of 5 containers, the most recent
 Nice work creating your first containers! When your're ready move onto [Module2](https://github.com/dylanlrrb/Please-Contain-Yourself/tree/master/2-Long_Lived_Containers) - Long Lived Containers
 
 ---
-####Things we've learned:
+#### Things we've learned:
 
 - What images are
 - What containers are
